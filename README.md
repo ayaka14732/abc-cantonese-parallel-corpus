@@ -10,14 +10,14 @@ Due to copyright issues, the extracted corpus cannot be directly published on Gi
 
 The parallel corpus is saved in two files, [`yue.txt`](https://drive.google.com/file/d/1WJ7bWgIhus-geMqwWoyt_POalgrJxuwj/view?usp=sharing) and [`en.txt`](https://drive.google.com/file/d/1XbO6POEbjeiYuIZe_SN9ECv571IRyz2T/view?usp=sharing).
 
-To download the files in a script, simply use the following commands:
+To download the files, simply use the following commands:
 
 ```sh
 gdown 1WJ7bWgIhus-geMqwWoyt_POalgrJxuwj  # yue.txt
 gdown 1XbO6POEbjeiYuIZe_SN9ECv571IRyz2T  # en.txt
 ```
 
-Additionally, you can also download the title list ([`titles.txt`](https://drive.google.com/file/d/1jGvmg2c-p3WnJg7jUpcmbW0h8XjZoNXm/view?usp=sharing)) and raw data ([`Wenlin+Dictionaries-20221101051901.xml`](https://drive.google.com/file/d/142F7zXUBniB6qnbo3jmLWIVV_UbZbxkZ/view?usp=sharing)), which are intermediate results of the build process.
+Additionally, you can also download the title list ([`titles.txt`](https://drive.google.com/file/d/1jGvmg2c-p3WnJg7jUpcmbW0h8XjZoNXm/view?usp=sharing)) and raw data ([`Wenlin+Dictionaries-20221101051901.xml`](https://drive.google.com/file/d/142F7zXUBniB6qnbo3jmLWIVV_UbZbxkZ/view?usp=sharing)), which are the intermediate results of the build process.
 
 ### Build from source
 
